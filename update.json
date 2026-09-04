@@ -2,6 +2,6 @@
   "version": "0.1.0",
   "build": 1,
   "apk_url": "https://github.com/czah7/paws-academy-updates/releases/download/v0.1.0/PawsAcademy-0.1.0.apk",
-  "sha256": "3080c74293c8558dac08018a0ae41b66f418962944b24843413f32b0c5d303ce",
+  "sha256": "2c47108e9dc900842bc89dc0119782a618d09a01a3a6425f2afdfa41486b8ca1",
   "release_notes": "Initial Paws Academy release: create or join a shared school, adopt unique dogs, teach Obedience Class, collect income, and build the Playground."
 }

@@ -1,7 +1,7 @@
 {
   "version": "0.2.0 Test",
-  "build": 8,
+  "build": 9,
   "apk_url": "https://github.com/czah7/paws-academy-updates/releases/download/v0.2.0-android-test/PawsAcademy-0.2.0-test.apk",
-  "sha256": "144cafde4ac7faa083d5b3b4ce5abedc7f1e58213c1f890e9ab9497836f0a59b",
-  "release_notes": "Paws Academy V0.2.0 Build 8 physical validation update."
+  "sha256": "d0ff92833a883898784c06cf806b129d62c05e0802a641252dc4d227644aa614",
+  "release_notes": "Paws Academy V0.2.0 Build 9 physical validation update."
 }
